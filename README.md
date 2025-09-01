@@ -24,35 +24,10 @@ Este projeto foi construído com as seguintes tecnologias:
 
     Banco de Dados: MySQL, PostgreSQL, MongoDB
 
-Como Rodar o Projeto
-
-Para testar o aplicativo em sua máquina, siga os passos abaixo.
-
-    Clone este repositório:
-    git clone [link do seu repositório]
-
-    Navegue até o diretório do projeto e instale as dependências do front-end:
-    cd [nome-do-seu-projeto]/frontend
-    npm install
-
-    Faça o mesmo para o back-end:
-    cd ../backend
-    npm install
-
-    Configure as variáveis de ambiente (como a conexão com o banco de dados) em um arquivo .env.
-
-    Inicie o servidor back-end:
-    npm start
-
-    Em uma nova aba do terminal, inicie o front-end:
-    cd ../frontend
-    npm start
-
 Contato
 
 Fique à vontade para entrar em contato comigo para falar sobre este ou outros projetos, ou para discutir oportunidades de trabalho.
 
-[Seu nome]
-[Seu e-mail]
-[Seu LinkedIn]
-[Seu portfólio]
+Isaque Mesquita.
+isaquemesquiiita@gmail.com
+Linkedin: Isaque Mesquita
